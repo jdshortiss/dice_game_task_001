@@ -13,7 +13,7 @@ Project consists of a simple PYTHON script that allows any number of players rol
 
 <p align="center">
 Play the Double Sixes Dice game with 2 player:<br/>
-<img src="https://i.imgur.com/11o7iuZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/MHBh64E.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
